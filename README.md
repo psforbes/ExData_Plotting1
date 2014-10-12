@@ -1,3 +1,11 @@
+## Submission
+
+For the scripts to run properly, download the data (.txt file) to your working directory
+
+Each script is written to read the data from the text file independently. 
+
+Note that warnings are turned off to avoid messages about closing unused connections
+
 ## Introduction
 
 This assignment uses data from
